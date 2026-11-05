@@ -5,6 +5,7 @@
 	};
 	objectVersion = 77;
 	objects = {
+/* XCRemoteSwiftPackageReference preflight fixture */
 
 /* Begin PBXBuildFile section */
 		185C27A56F464771D53BA9A5 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4811D26AEA10004CDB78F7F /* main.swift */; };
