@@ -1,0 +1,14 @@
+name: AssetApp
+options:
+  deploymentTarget:
+    iOS: '16.0'
+targets:
+  AssetApp:
+    type: application
+    platform: iOS
+    sources: [Sources, Assets.xcassets]
+    settings:
+      base:
+        GENERATE_INFOPLIST_FILE: YES
+        PRODUCT_BUNDLE_IDENTIFIER: com.example.borrowedhands.assets
+        ASSETCATALOG_COMPILER_APPICON_NAME: AppIcon
