@@ -1,1 +1,1 @@
-print(bhUndefinedSymbol)
+print("Borrowed Hands demo")
